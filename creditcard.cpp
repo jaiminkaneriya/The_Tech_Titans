@@ -31,14 +31,14 @@ int main()
     cin >> cardNum; // Read the credit card number from the user
     if (is_Credit_Card_Valid(cardNum)) // If the credit card number is valid, print a message
     {
-        cout<<"*************************************************"<<endl;
-        cout <<endl<< "CREDIT CARD NUMBER IS VALID." << endl <<endl;
+        cout<<endl<<"*************************************************"<<endl;
+        cout<< "CREDIT CARD NUMBER IS VALID."<< endl;
         cout<<"*************************************************"<<endl;
     }
     else // Otherwise, print a different message
     {
-        cout<<"*************************************************"<<endl;
-        cout <<endl<< "CREDIT CARD NUMBER IS NOT VALID." << endl << endl;
+        cout<<endl<<"*************************************************"<<endl;
+        cout<< "CREDIT CARD NUMBER IS NOT VALID."<< endl;
         cout<<"*************************************************"<<endl;
     }
     cout<<endl<<endl<<"-------------------------------------------------"<<endl;
