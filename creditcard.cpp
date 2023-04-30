@@ -50,7 +50,7 @@ int main()
   return 0;
 }
 /*This program created by
- 22cs028 -> jaimin kaneriya
- 22cs020 -> samarth Dhol
- 22cs022 -> Nishit gajipara
+ 22CS028 -> JAIMIN KANERIYA
+ 22CS020 -> SAMARTH DHOL
+ 22CS022 -> NISHIT GAJIPARA
 */
