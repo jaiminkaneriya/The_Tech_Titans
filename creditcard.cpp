@@ -31,22 +31,22 @@ int main()
     cin >> cardNum; // Read the credit card number from the user
     if (is_Credit_Card_Valid(cardNum)) // If the credit card number is valid, print a message
     {
-        cout<<"-------------------------------------------------"<<endl;
+        cout<<"*************************************************"<<endl;
         cout <<endl<< "CREDIT CARD NUMBER IS VALID." << endl <<endl;
-        cout<<"-------------------------------------------------"<<endl;
+        cout<<"*************************************************"<<endl;
     }
     else // Otherwise, print a different message
     {
-        cout<<"-------------------------------------------------"<<endl;
+        cout<<"*************************************************"<<endl;
         cout <<endl<< "CREDIT CARD NUMBER IS NOT VALID." << endl << endl;
-        cout<<"-------------------------------------------------"<<endl;
+        cout<<"*************************************************"<<endl;
     }
-    cout<<endl<<endl<<"*************************************************"<<endl;
-    cout<<"* THIS PROGRAM IS PREPARED BY:-"<<"                 *"<<endl;
-    cout<<"* NAME--SAMARTH DHOL, ID---22CS020"<<"              *"<<endl;
-    cout<<"* NAME--JAIMIN KANERIYA, ID---22CS028"<<"           *"<<endl;
-    cout<<"* NAME--NISHIT GAJIPARA, ID---22CS022"<<"           *"<<endl;
-    cout<<"*************************************************"<<endl;
+    cout<<endl<<endl<<"-------------------------------------------------"<<endl;
+    cout<<"| THIS PROGRAM IS PREPARED BY:-"<<"                 |"<<endl;
+    cout<<"| NAME--SAMARTH DHOL, ID---22CS020"<<"              |"<<endl;
+    cout<<"| NAME--JAIMIN KANERIYA, ID---22CS028"<<"           |"<<endl;
+    cout<<"| NAME--NISHIT GAJIPARA, ID---22CS022"<<"           |"<<endl;
+    cout<<"-------------------------------------------------"<<endl;
   return 0;
 }
 /*This program created by
