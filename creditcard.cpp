@@ -33,7 +33,7 @@ int main()
     {
         cout<<endl<<"*************************************************"<<endl;
         cout<< "\"CREDIT CARD NUMBER IS VALID.\""<< endl;
-        cout<<"*************************************************"<<endl;
+        cout<<"**************************************************"<<endl;
     }
     else // Otherwise, print a different message
     {
