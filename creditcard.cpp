@@ -41,12 +41,12 @@ int main()
         cout<< "\"CREDIT CARD NUMBER IS NOT VALID.\""<< endl;
         cout<<"*************************************************"<<endl;
     }
-    cout<<endl<<endl<<"-------------------------------------------------"<<endl;
+    cout<<endl<<endl<<"--------------------------------------------------"<<endl;
     cout<<"| THIS PROGRAM IS PREPARED BY:-"<<"                 |"<<endl;
     cout<<"| NAME--SAMARTH DHOL, ID---22CS020"<<"              |"<<endl;
     cout<<"| NAME--JAIMIN KANERIYA, ID---22CS028"<<"           |"<<endl;
     cout<<"| NAME--NISHIT GAJIPARA, ID---22CS022"<<"           |"<<endl;
-    cout<<"-------------------------------------------------"<<endl;
+    cout<<"--------------------------------------------------"<<endl;
     return 0;
 }
 /*VALID CREDIT CARD NUMBERS FOR INPUT
