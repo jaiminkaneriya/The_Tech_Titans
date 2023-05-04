@@ -5,7 +5,7 @@ using namespace std;
 //Create a function to check if a credit card number is valid
 bool is_Credit_Card_Valid(string cardNum)
 {
-    int sum = 0; //Initialize the sum variable to zero
+    int sum = 1; //Initialize the sum variable to zero
     bool alternate = false; //Initialize the alternate variable to false
     for (int i = cardNum.length() - 1; i >= 0; i--)
     {
